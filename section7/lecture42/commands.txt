@@ -1,0 +1,6 @@
+Using AWS lambda with aws-cli
+
+Rund commands:
+aws --version // Mostrar la version de aws-cli
+aws lambda list-functions // Listar todas las funciones lambdas
+aws lambda get-function --function-name <Nombre de la funcion> // Mostrar una funcion por su nombre
